@@ -32,8 +32,14 @@
 - 连接钱包、获取账户、签名交易
 - 钱包多链支持（ChainId 切换）
 
-📦 常用库：ethers.js / viem
-- 合约调用 contract.methods.functionName()
-- 事件监听
-- 钱包签名与交易发送
+📦 常用库：
+- ethers.js / viem
+   - 合约调用 contract.methods.functionName()
+   - 事件监听
+   - 钱包签名与交易发送
+ 
+- wagmi + RainbowKit (React)：
+   - 快速集成钱包登录
+   - 多链支持
+   - UI 组件库
 
