@@ -66,6 +66,14 @@
 - 去中心化后端：
    - The Graph：区块链数据索引 → GraphQL 查询
    - Moralis / Alchemy SDK：链上数据 API（交易记录、NFT、钱包余额）
+ 
+- 📌 目标：能做一个 NFT 市场 dApp（上传 NFT → 存 IPFS → 写入链 → 前端展示）。
+
+六、Web3 应用场景实践
+- Defi：
+   - Swap（Uniswap SDK）
+   - Staking（质押）
+   - Lending（Aave, Compound）
 
 
 
