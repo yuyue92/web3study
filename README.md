@@ -74,6 +74,16 @@
    - Swap（Uniswap SDK）
    - Staking（质押）
    - Lending（Aave, Compound）
+ 
+- NFT：
+   - 铸造/交易/盲盒
+   - NFT 门票、会员卡
+ 
+- DAO：
+   - Snapshot 投票
+   - Gnosis Safe 多签
+ 
+- GameFi： Web3 游戏，NFT 资产交互
 
 
 
