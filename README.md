@@ -19,3 +19,8 @@
 - 区块、交易、共识机制（PoW, PoS）
 - Gas、Nonce、智能合约
 - 钱包、助记词、私钥、公钥
+
+主流链：
+- 以太坊 (Ethereum, EVM 生态)
+- Polygon、Arbitrum、Optimism（L2）
+- Solana、Aptos、Sui（非 EVM）
