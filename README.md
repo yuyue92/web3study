@@ -48,4 +48,10 @@
    - ERC-721（NFT）
    - ERC-1155（半同质化）
    - 读取余额、转账、铸造 NFT
+ 
+- 📌 目标：能做一个 连接钱包 + 查询余额 + 转账/调用合约 的 dApp。
 
+四、智能合约（Solidity）：
+- 语言：Solidity 基础语法
+- 开发框架：Hardhat / Foundry（合约开发、测试）、OpenZeppelin（安全的合约库）；
+- 合约部署：测试网（Sepolia, Mumbai）、使用 Alchemy / Infura 提供的节点
