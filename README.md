@@ -27,8 +27,13 @@
 
 三、Web3 前端核心技能
 
-钱包交互：Metamask、wallConnect
+🦊 钱包交互：Metamask、wallConnect
 - window.ethereum API
 - 连接钱包、获取账户、签名交易
 - 钱包多链支持（ChainId 切换）
+
+📦 常用库：ethers.js / viem
+- 合约调用 contract.methods.functionName()
+- 事件监听
+- 钱包签名与交易发送
 
