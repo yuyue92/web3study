@@ -24,3 +24,11 @@
 - 以太坊 (Ethereum, EVM 生态)
 - Polygon、Arbitrum、Optimism（L2）
 - Solana、Aptos、Sui（非 EVM）
+
+三、Web3 前端核心技能
+
+钱包交互：Metamask、wallConnect
+- window.ethereum API
+- 连接钱包、获取账户、签名交易
+- 钱包多链支持（ChainId 切换）
+
