@@ -55,3 +55,17 @@
 - 语言：Solidity 基础语法
 - 开发框架：Hardhat / Foundry（合约开发、测试）、OpenZeppelin（安全的合约库）；
 - 合约部署：测试网（Sepolia, Mumbai）、使用 Alchemy / Infura 提供的节点
+- 目标：能与合约交互（ABI、合约地址），知道合约函数的输入输出。
+
+五、去中心化存储 & 后端
+- 去中心化存储：
+   - IPFS / Pinata：上传图片/文件 → 得到哈希
+   - Arweave：永久存储；
+   - NFT.Storage / Web3.Storage
+ 
+- 去中心化后端：
+   - The Graph：区块链数据索引 → GraphQL 查询
+   - Moralis / Alchemy SDK：链上数据 API（交易记录、NFT、钱包余额）
+
+
+
