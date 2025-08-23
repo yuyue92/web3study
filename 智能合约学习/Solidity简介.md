@@ -9,3 +9,25 @@ Solidity的典型应用场景：
 - 代币发行：如ERC-20， ERC-721
 - 去中心化金融：DeFi, 借贷协议，交易所；
 - DAO（去中心化组织）：治理投票，资金管理
+
+Solidity代码示例：
+```
+// SPDX-License-Identifier: MIT  
+pragma solidity 0.8.28;
+contract SimpleStorage {
+  unit256 public value;
+  function setValue(uint256 _val) public {
+    value = _val;
+  }
+}
+```
+
+solidity开发工具链包括：
+- 编译器solc、
+- 开发框架 hardHat、Foundry、Truffle。
+- 测试网： Sopelia/Goerli。
+
+Solidity安全注意事项：
+- 重入攻击：使用 ReentrancyGuard；
+- 整数溢出：Solidity0.8.0+ 默认启用检查；
+- 权限控制：避免滥用 tx.origin；改用msg.sender。
